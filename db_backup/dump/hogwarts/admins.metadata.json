@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hogwarts.admins"}],"uuid":"3337e1a8ef1e4e85b36c7f44216f4e05"}

@@ -1,0 +1,52 @@
+{
+  "fredweasley@hogwarts.com": {
+    "first_name": "Fred",
+    "last_name": "Weasley",
+    "email": "fredweasley@hogwarts.com",
+    "password": "123",
+    "ID": 1,
+    "created_at": "18_07_2020",
+    "last_updated": "18_07_2020, 20:16:27",
+    "existing_skills": [
+      {
+        "name": "Potions",
+        "level": 2
+      },
+      {
+        "name": "Charms",
+        "level": 1
+      }
+    ],
+    "desired_skills": [
+      {
+        "name": "Transfiguration",
+        "level": 4
+      }
+    ]
+  },
+  "ginnyweasley@hogwarts.com": {
+    "first_name": "Ginny",
+    "last_name": "Weasley",
+    "email": "ginnyweasley@hogwarts.com",
+    "password": "harry",
+    "ID": 2,
+    "created_at": "18_07_2020",
+    "last_updated": "18_07_2020, 20:16:52",
+    "existing_skills": [
+      {
+        "name": "Potions",
+        "level": 2
+      },
+      {
+        "name": "Charms",
+        "level": 1
+      }
+    ],
+    "desired_skills": [
+      {
+        "name": "Transfiguration",
+        "level": 4
+      }
+    ]
+  }
+}
